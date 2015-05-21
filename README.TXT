@@ -1,1 +1,4 @@
+
 # TabBarDemo
+
+   这是一个基本的项目模版，基于UITabBarController的application还能够在每个tab view都可以实现导航控制，即添加一个UINavigationController来实现视图控制器的切换，以及tabber主页面与登陆页面的跳转，本demo提供了好的解决方案。此外，有时我们希望切换的视图可以隐藏下方的tabbar，本demo提供了好的方法。
